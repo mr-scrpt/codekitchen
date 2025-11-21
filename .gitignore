@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# minio
+minio_data/
+
+# system
+.DS_Store
+Thumbs.db
